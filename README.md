@@ -6,9 +6,11 @@ Group Member:
 Sijie Liu (N11120596)
 Chenglong Sun (N17840926)
 
-Report：https://github.com/Tazdingoo/Social-Network/blob/master/ProjectReport_Sijie%20Liu_Chenglong%20Sun.pdf
+Report: https://github.com/Tazdingoo/Social-Network/blob/master/ProjectReport_Sijie%20Liu_Chenglong%20Sun.pdf
 
-Demo video:https://stream.nyu.edu/media/database++demo+video/1_2zo0ehzu
+Database design: https://github.com/Tazdingoo/Social-Network/blob/master/ER.pdf
+
+Demo video: https://stream.nyu.edu/media/database++demo+video/1_2zo0ehzu
 
 1. Introduction & Design method
 
